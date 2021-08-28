@@ -1,8 +1,8 @@
 package email
 
 import (
-	"github.com/flipped-aurora/gva-plug-email/global"
-	"github.com/flipped-aurora/gva-plug-email/router"
+	"github.com/flipped-aurora/gva-plugins/email/global"
+	"github.com/flipped-aurora/gva-plugins/email/router"
 	"github.com/gin-gonic/gin"
 )
 

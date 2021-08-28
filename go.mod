@@ -1,4 +1,4 @@
-module github.com/flipped-aurora/gva-plug-email
+module github.com/flipped-aurora/gva-plugins/email
 
 go 1.16
 

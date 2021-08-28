@@ -3,7 +3,7 @@ package utils
 import (
 	"crypto/tls"
 	"fmt"
-	"github.com/flipped-aurora/gva-plug-email/global"
+	"github.com/flipped-aurora/gva-plugins/email/global"
 	"github.com/jordan-wright/email"
 	"net/smtp"
 	"strings"

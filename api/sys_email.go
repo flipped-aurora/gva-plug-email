@@ -3,7 +3,7 @@ package api
 import (
 	"github.com/flipped-aurora/gin-vue-admin/server/global"
 	"github.com/flipped-aurora/gin-vue-admin/server/model/common/response"
-	"github.com/flipped-aurora/gva-plug-email/service"
+	"github.com/flipped-aurora/gva-plugins/email/service"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 )

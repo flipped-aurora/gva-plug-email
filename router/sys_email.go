@@ -2,7 +2,7 @@ package router
 
 import (
 	"github.com/flipped-aurora/gin-vue-admin/server/middleware"
-	"github.com/flipped-aurora/gva-plug-email/api"
+	"github.com/flipped-aurora/gva-plugins/email/api"
 	"github.com/gin-gonic/gin"
 )
 
